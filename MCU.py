@@ -82,7 +82,8 @@ st.markdown("---")
 st.markdown(
     """
     <div class="footer">
-        Designed by <a href="https://linktr.ee/aryandhone555">Aryan</a> |
+        Designed by <a href="https://linktr.ee/aryandhone555">Aryan</a> 
+        <br>
         <a href="mailto:er.aryandhone@gmail.com">er.aryandhone@gmail.com</a> |
         <a href="https://linkedin.com/in/aryandhone555">LinkedIn</a>
     </div>
